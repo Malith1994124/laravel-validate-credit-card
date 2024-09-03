@@ -1,5 +1,5 @@
 {
-  "name": "r4kib/validate-credit-card",
+  "name": "malith124/validate-credit-card",
   "description": "PHP and Laravel credit card validator",
   "license": "MIT",
   "keywords": [
@@ -10,8 +10,8 @@
   ],
   "authors": [
     {
-      "name": "r4kib",
-      "email": "rakib.hbo@gmail.com"
+      "name": "Malith Fernando",
+      "email": "malith124@gmail.com"
     }
   ],
   "require": {
